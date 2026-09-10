@@ -15,7 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\BhaskaraApp\BhaskaraApp.csproj" />
+    <ProjectReference Include="BhaskaraApp.csproj" />
   </ItemGroup>
 
   <ItemGroup>
